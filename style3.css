@@ -1,0 +1,43 @@
+.imgs-corte{
+display: flex;
+padding-bottom: 3cm;
+border: 2px solid white;
+border-radius: 7%;
+background-color: rgb(58, 21, 6);
+background-image: url("imagens/navalha.png");
+}
+
+.corte{
+margin-top: 2cm;
+margin-left: 4cm;
+border-radius: 10%;
+border: 2px solid whitesmoke;
+}
+
+.cortes{
+    padding-bottom: 3cm;
+    background-color: rgba(65, 62, 62, 0.849);
+}
+
+.our-cortes{
+    color: aliceblue;
+    margin-left: 14cm;
+    margin-bottom: 2cm;
+
+}
+
+.our-menu{
+    margin-left: 15cm;
+    color: whitesmoke;
+}
+
+.option{
+    margin-left: 12cm;
+    font-size: 25px;
+    color: whitesmoke;
+}
+
+.table{
+    border: 2px solid whitesmoke;
+    margin-top: 1cm;
+}
